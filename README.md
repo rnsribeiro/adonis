@@ -105,7 +105,7 @@ node ace migration:run
 node ace make:controller Moment
 ```
 
-13. Edite o arquivo `Controller`  criado como `Controller/Http/MomentsController.ts
+13. Edite o arquivo `Controller`  criado como `Controller/Http/MomentsController.ts``
 ```javascript
 // import type { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
 
